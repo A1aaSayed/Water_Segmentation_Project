@@ -32,15 +32,5 @@ The goal is to identify and segment specific land features from multi-band satel
 
 ---
 
-## 🚀 Training
-
-To start training:
-
-```bash
-python src/train.py
-```
-
----
-
 ## Author
 **Alaa Sayed** - AI Engineer
